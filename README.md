@@ -9,10 +9,11 @@ This app uses python 2.7.  What a dream.
 Python 2.7+ is required to run this app.  This app will not run using Python 3+.  If you are using  a Mac, it comes with python 2.7 out of the box.  If not, visit [the python site](https://www.python.org/downloads/release/python-2716/) to download it.
 
 ## Running the program
-> python index.py 10
+>ex. python index.py 10
 
 ## Running tests
 > python index.py test
+
 This will test the main function of the application isPrime().  Can it decipher between a prime number and a non-prime number.
 
 ## Versioning
